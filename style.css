@@ -1,0 +1,17 @@
+body {
+    background-color: #BEEEEF;
+}
+
+h2 {
+    background-color:#6495ED;
+    height: 30px;
+    width: 350px;
+    border-radius: 10px;
+    border: 1px solid;
+    text-align:center;
+    margin:auto;
+}
+img {
+    float: right;
+}
+
